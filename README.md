@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @buzzer246
-- 👀 I’m interested in ...<!Programming>
+- 👀 I’m interested in ...<!Full Stack Javascript Frameworks Programming>
 - 🌱 I’m currently learning ...<!python>
 - 💞️ I’m looking to collaborate on ...<!Software Dev>
 - 📫 How to reach me ... <avinashreddy471@gmail.com>
